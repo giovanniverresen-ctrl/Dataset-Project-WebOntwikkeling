@@ -1,0 +1,750 @@
+[
+  {
+    "id": "Char1",
+    "alias": "Tracer",
+    "bio": "De voormalige Overwatch-agent Lena Oxton is een tijdreizende avonturierster en een onstuitbare kracht voor het goede. Dankzij haar chronale versneller kan ze haar eigen tijd manipuleren.",
+    "base_hp": 150,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Tracer.png",
+    "role": "Damage",
+    "abilities": ["Pulse Pistols", "Blink", "Recall", "Pulse Bomb"],
+    "home_region": {
+      "id": "Reg101",
+      "name": "King's Row",
+      "country": "Verenigd Koninkrijk",
+      "type": "Hybrid"
+    }
+  },
+  {
+    "id": "Char2",
+    "alias": "Genji",
+    "bio": "De cyborg Genji Shimada heeft vrede gesloten met het augmented lichaam dat hij ooit verafschuwde. Hij heeft hierdoor een hogere menselijkheid ontdekt.",
+    "base_hp": 200,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Genji.png",
+    "role": "Damage",
+    "abilities": ["Shuriken", "Deflect", "Swift Strike", "Dragonblade"],
+    "home_region": {
+      "id": "Reg102",
+      "name": "Hanamura",
+      "country": "Japan",
+      "type": "Assault"
+    }
+  },
+  {
+    "id": "Char3",
+    "alias": "Winston",
+    "bio": "Winston is een superintelligent, genetisch gemanipuleerde gorilla. Hij is een briljante wetenschapper en een groot voorstander van de mensheid, die hunkert naar de heroïsche dagen van vroeger.",
+    "base_hp": 550,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Winston.png",
+    "role": "Tank",
+    "abilities": ["Tesla Cannon", "Jump Pack", "Barrier Projector", "Primal Rage"],
+    "home_region": {
+      "id": "Reg110",
+      "name": "Horizon Lunar Colony",
+      "country": "De Maan",
+      "type": "Assault"
+    }
+  },
+  {
+    "id": "Char4",
+    "alias": "D.Va",
+    "bio": "Hana Song, beter bekend als D.Va, is een voormalig professioneel gamer die nu haar vaardigheden gebruikt om haar ultramoderne mech te besturen ter verdediging van haar thuisland.",
+    "base_hp": 650,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/D.va.png",
+    "role": "Tank",
+    "abilities": ["Fusion Cannons", "Defense Matrix", "Boosters", "Micro Missiles", "Self-Destruct"],
+    "home_region": {
+      "id": "Reg105",
+      "name": "Busan",
+      "country": "Zuid-Korea",
+      "type": "Control"
+    }
+  },
+  {
+    "id": "Char5",
+    "alias": "Reinhardt",
+    "bio": "Reinhardt Wilhelm tooit zich als een kampioen uit een vervlogen tijdperk. Hij leeft volgens de ridderlijke codes van eer, gerechtigheid en moed.",
+    "base_hp": 600,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Reinhardt.png",
+    "role": "Tank",
+    "abilities": ["Rocket Hammer", "Barrier Field", "Charge", "Fire Strike", "Earthshatter"],
+    "home_region": {
+      "id": "Reg108",
+      "name": "Eichenwalde",
+      "country": "Duitsland",
+      "type": "Hybrid"
+    }
+  },
+  {
+    "id": "Char6",
+    "alias": "Junkrat",
+    "bio": "Junkrat is een geobsedeerde liefhebber van explosieven die leeft om chaos en vernietiging te veroorzaken. Hij overleeft in de ruwe outback van Australië.",
+    "base_hp": 200,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Junkrat.png",
+    "role": "Damage",
+    "abilities": ["Frag Launcher", "Concussion Mine", "Steel Trap", "RIP-Tire"],
+    "home_region": {
+      "id": "Reg104",
+      "name": "Junkertown",
+      "country": "Australië",
+      "type": "Escort"
+    }
+  },
+  {
+    "id": "Char7",
+    "alias": "Sombra",
+    "bio": "Sombra, een van 's werelds meest beruchte hackers, gebruikt informatie om de machthebbers te manipuleren. Ze is opgegroeid in de nasleep van de Omnic Crisis.",
+    "base_hp": 200,
+    "is_original_hero": false,
+    "release_date": "2016-11-15",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Sombra.png",
+    "role": "Damage",
+    "abilities": ["Machine Pistol", "Hack", "Stealth", "Translocator", "EMP"],
+    "home_region": {
+      "id": "Reg106",
+      "name": "Dorado",
+      "country": "Mexico",
+      "type": "Escort"
+    }
+  },
+  {
+    "id": "Char8",
+    "alias": "Ana",
+    "bio": "Ana Amari, een van de oprichters van Overwatch, gebruikt haar vaardigheden en expertise om haar thuisland en de mensen om wie ze geeft te verdedigen.",
+    "base_hp": 200,
+    "is_original_hero": false,
+    "release_date": "2016-07-19",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Ana.png",
+    "role": "Support",
+    "abilities": ["Biotic Rifle", "Sleep Dart", "Biotic Grenade", "Nano Boost"],
+    "home_region": {
+      "id": "Reg107",
+      "name": "Temple of Anubis",
+      "country": "Egypte",
+      "type": "Assault"
+    }
+  },
+  {
+    "id": "Char9",
+    "alias": "Lucio",
+    "bio": "Lúcio Correia dos Santos is een internationale beroemdheid die muziek en acties gebruikt om sociale verandering te inspireren. Hij vecht voor de vrijheid van zijn volk.",
+    "base_hp": 200,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Lucio.png",
+    "role": "Support",
+    "abilities": ["Sonic Amplifier", "Crossfade", "Amp It Up", "Soundwave", "Sound Barrier"],
+    "home_region": {
+      "id": "Reg109",
+      "name": "Paraíso",
+      "country": "Brazilië",
+      "type": "Hybrid"
+    }
+  },
+  {
+    "id": "Char10",
+    "alias": "Kiriko",
+    "bio": "Kiriko Kamori is de beschermer van Kanezaka. Ze combineert de helende kunsten van haar grootmoeder met de ninjavardigheden van haar moeder.",
+    "base_hp": 200,
+    "is_original_hero": false,
+    "release_date": "2022-10-04",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Kiriko.png",
+    "role": "Support",
+    "abilities": ["Healing Ofuda", "Kunai", "Swift Step", "Protection Suzu", "Kitsune Rush"],
+    "home_region": {
+      "id": "Reg102",
+      "name": "Hanamura",
+      "country": "Japan",
+      "type": "Assault"
+    }
+  },
+{
+    "id": "Char11",
+    "alias": "Soldier: 76",
+    "bio": "De burgerwacht Soldier: 76 vecht een persoonlijke oorlog om de waarheid achter de val van Overwatch te onthullen. Hij was ooit Jack Morrison, de commandant van de organisatie.",
+    "base_hp": 200,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Soldier_76.png",
+    "role": "Damage",
+    "abilities": ["Heavy Pulse Rifle", "Helix Rockets", "Sprint", "Biotic Field", "Tactical Visor"],
+    "home_region": {
+      "id": "Reg111",
+      "name": "Route 66",
+      "country": "Verenigde Staten",
+      "type": "Escort"
+    }
+  },
+  {
+    "id": "Char12",
+    "alias": "Mercy",
+    "bio": "Dr. Angela Ziegler is een ongeëvenaarde genezeres, een briljante wetenschapper en een groot voorstander van vrede. Ze draagt een Valkyrie-pak waarmee ze snel naar gewonden op het slagveld kan vliegen.",
+    "base_hp": 200,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Mercy.png",
+    "role": "Support",
+    "abilities": ["Caduceus Staff", "Caduceus Blaster", "Guardian Angel", "Resurrect", "Valkyrie"],
+    "home_region": {
+      "id": "Reg112",
+      "name": "Zürich HQ",
+      "country": "Zwitserland",
+      "type": "Control"
+    }
+  },
+  {
+    "id": "Char13",
+    "alias": "Hanzo",
+    "bio": "Hanzo Shimada is een meester in boogschieten en een dodelijke huurmoordenaar. Hij probeert zijn eer te herstellen nadat hij gedwongen werd zijn broer Genji te doden (dacht hij).",
+    "base_hp": 200,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Hanzo.png",
+    "role": "Damage",
+    "abilities": ["Storm Bow", "Sonic Arrow", "Storm Arrows", "Lunge", "Dragonstrike"],
+    "home_region": {
+      "id": "Reg102",
+      "name": "Hanamura",
+      "country": "Japan",
+      "type": "Assault"
+    }
+  },
+  {
+    "id": "char14",
+    "alias": "Pharah",
+    "bio": "Fareeha Amari, de dochter van Ana, droomde ervan bij Overwatch te gaan. Nu dient ze als hoofd beveiliging bij Helix Security International en bewaakt ze het luchtruim in haar Raptora-pak.",
+    "base_hp": 200,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Pharah.png",
+    "role": "Damage",
+    "abilities": ["Rocket Launcher", "Jump Jet", "Concussive Blast", "Barrage"],
+    "home_region": {
+      "id": "Reg107",
+      "name": "Temple of Anubis",
+      "country": "Egypte",
+      "type": "Assault"
+    }
+  },
+  {
+    "id": "Char15",
+    "alias": "Mei",
+    "bio": "Mei is een klimatoloog die zichzelf in cryostase moest brengen om te overleven. Ze ontwaakte jaren later in een wereld waar Overwatch niet meer bestond en probeert nu het ecosysteem te herstellen.",
+    "base_hp": 250,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Mei.png",
+    "role": "Damage",
+    "abilities": ["Endothermic Blaster", "Cryo-Freeze", "Ice Wall", "Blizzard"],
+    "home_region": {
+      "id": "Reg113",
+      "name": "Lijiang Tower",
+      "country": "China",
+      "type": "Control"
+    }
+  },
+  {
+    "id": "Char16",
+    "alias": "Widowmaker",
+    "bio": "Widowmaker is de perfecte moordenaar: geduldig, meedogenloos efficiënt en zonder emotie. Ze werd gehersenspoeld door de terroristische organisatie Talon om haar eigen man te vermoorden.",
+    "base_hp": 175,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Widowmaker.png",
+    "role": "Damage",
+    "abilities": ["Widow's Kiss", "Grappling Hook", "Venom Mine", "Infra-Sight"],
+    "home_region": {
+      "id": "Reg114",
+      "name": "Château Guillard",
+      "country": "Frankrijk",
+      "type": "Deathmatch"
+    }
+  },
+  {
+    "id": "Char17",
+    "alias": "Zarya",
+    "bio": "Aleksandra Zaryanova is een van de sterkste vrouwen ter wereld. Ze gaf haar carrière als gewichtheffer op om haar land te beschermen tegen de Omnic-dreiging uit Siberië.",
+    "base_hp": 475,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Zarya.png",
+    "role": "Tank",
+    "abilities": ["Particle Cannon", "Projected Barrier", "Particle Barrier", "Graviton Surge"],
+    "home_region": {
+      "id": "Reg115",
+      "name": "Volskaya Industries",
+      "country": "Rusland",
+      "type": "Assault"
+    }
+  },
+  {
+    "id": "Char18",
+    "alias": "Cassidy",
+    "bio": "Cole Cassidy is een outlaw die zijn schietkunsten inzet voor gerechtigheid. Hij was lid van Blackwatch, de geheime tak van Overwatch, maar werkt nu als huurling.",
+    "base_hp": 225,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Cassidy.png",
+    "role": "Damage",
+    "abilities": ["Peacekeeper", "Magnetic Grenade", "Combat Roll", "Deadeye"],
+    "home_region": {
+      "id": "Reg111",
+      "name": "Route 66",
+      "country": "Verenigde Staten",
+      "type": "Escort"
+    }
+  },
+  {
+    "id": "Char19",
+    "alias": "Roadhog",
+    "bio": "Mako Rutledge was een van de vele bewoners van de Australische Outback wiens land werd verwoest door de bouw van een omnium. Nu is hij een meedogenloze moordenaar genaamd Roadhog.",
+    "base_hp": 700,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Roadhog.png",
+    "role": "Tank",
+    "abilities": ["Scrap Gun", "Take a Breather", "Chain Hook", "Whole Hog"],
+    "home_region": {
+      "id": "Reg104",
+      "name": "Junkertown",
+      "country": "Australië",
+      "type": "Escort"
+    }
+  },
+  {
+    "id": "Char20",
+    "alias": "Zenyatta",
+    "bio": "Zenyatta is een omnic-monnik die de wereld rondreist op zoek naar spirituele verlichting. Hij gelooft dat mensen en omnics vreedzaam kunnen samenleven.",
+    "base_hp": 200,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Zenyatta.png",
+    "role": "Support",
+    "abilities": ["Orb of Destruction", "Orb of Harmony", "Orb of Discord", "Transcendence"],
+    "home_region": {
+      "id": "Reg116",
+      "name": "Nepal Sanctum",
+      "country": "Nepal",
+      "type": "Control"
+    }
+  },
+  {
+    "id": "Char21",
+    "alias": "Doomfist",
+    "bio": "Akande Ogundimu, beter bekend als Doomfist, is een van de leiders van Talon. Hij gelooft dat alleen door conflict de mensheid sterker kan worden en evolueren.",
+    "base_hp": 450,
+    "is_original_hero": false,
+    "release_date": "2017-07-27",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Doomfist.png",
+    "role": "Tank",
+    "abilities": ["Hand Cannon", "Rocket Punch", "Seismic Slam", "Power Block", "Meteor Strike"],
+    "home_region": {
+      "id": "Reg117",
+      "name": "Numbani",
+      "country": "Nigeria",
+      "type": "Hybrid"
+    }
+  },
+  {
+    "id": "Char22",
+    "alias": "Moira",
+    "bio": "Moira O'Deorain is een briljante maar controversiële geneticus die de ethische grenzen van de wetenschap negeert. Ze werkt voor Talon en ontwikkelt technologieën die zowel kunnen genezen als vernietigen.",
+    "base_hp": 200,
+    "is_original_hero": false,
+    "release_date": "2017-11-16",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Moira.png",
+    "role": "Support",
+    "abilities": ["Biotic Grasp", "Biotic Orb", "Fade", "Coalescence"],
+    "home_region": {
+      "id": "Reg118",
+      "name": "Oasis",
+      "country": "Irak",
+      "type": "Control"
+    }
+  },
+  {
+    "id": "Char23",
+    "alias": "Torbjörn",
+    "bio": "Op zijn hoogtepunt was Torbjörn een van de beste wapensmeden ter wereld. Hij wantrouwt kunstmatige intelligentie en werkt nu om zijn uitvindingen uit de verkeerde handen te houden.",
+    "base_hp": 250,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Torbjorn.png",
+    "role": "Damage",
+    "abilities": ["Rivet Gun", "Forge Hammer", "Deploy Turret", "Overload", "Molten Core"],
+    "home_region": {
+      "id": "Reg119",
+      "name": "Gothenburg",
+      "country": "Zweden",
+      "type": "Assault"
+    }
+  },
+  {
+    "id": "Char24",
+    "alias": "Brigitte",
+    "bio": "Brigitte Lindholm, de dochter van Torbjörn, is gespecialiseerd in pantser. Ze vecht in de frontlinie als de schildknaap van Reinhardt om hem en haar bondgenoten te beschermen.",
+    "base_hp": 200,
+    "is_original_hero": false,
+    "release_date": "2018-03-20",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Brigitte.png",
+    "role": "Support",
+    "abilities": ["Rocket Flail", "Repair Pack", "Whip Shot", "Barrier Shield", "Rally"],
+    "home_region": {
+      "id": "Reg119",
+      "name": "Gothenburg",
+      "country": "Zweden",
+      "type": "Assault"
+    }
+  },
+  {
+    "id": "Char25",
+    "alias": "Ashe",
+    "bio": "Elizabeth Caledonia Ashe, leider van de Deadlock Gang, is een rebelse revolverheldin uit het zuidwesten van Amerika. Samen met haar butler B.O.B. pleegt ze overvallen.",
+    "base_hp": 200,
+    "is_original_hero": false,
+    "release_date": "2018-11-13",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Ashe.png",
+    "role": "Damage",
+    "abilities": ["The Viper", "Dynamite", "Coach Gun", "B.O.B."],
+    "home_region": {
+      "id": "Reg111",
+      "name": "Route 66",
+      "country": "Verenigde Staten",
+      "type": "Escort"
+    }
+  },
+  {
+    "id": "Char26",
+    "alias": "Bastion",
+    "bio": "Ooit een gevechtseenheid in de Omnic Crisis, is deze Bastion-eenheid nu ontwaakt met een fascinatie voor de natuur. Hij vermijdt conflict, maar is dodelijk als hij wordt geprovoceerd.",
+    "base_hp": 300,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Bastion.png",
+    "role": "Damage",
+    "abilities": ["Configuration: Assault", "Configuration: Recon", "A-36 Tactical Grenade", "Configuration: Artillery"],
+    "home_region": {
+      "id": "Reg108",
+      "name": "Eichenwalde",
+      "country": "Duitsland",
+      "type": "Hybrid"
+    }
+  },
+  {
+    "id": "Char27",
+    "alias": "Sigma",
+    "bio": "De briljante astrofysicus Dr. Siebren de Kuiper kreeg de kracht om de zwaartekracht te beheersen na een experiment dat misging. Talon manipuleert hem nu als een levend wapen.",
+    "base_hp": 550,
+    "is_original_hero": false,
+    "release_date": "2019-08-13",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Sigma.png",
+    "role": "Tank",
+    "abilities": ["Hyperspheres", "Experimental Barrier", "Kinetic Grasp", "Accretion", "Gravitic Flux"],
+    "home_region": {
+      "id": "Reg120",
+      "name": "Rialto",
+      "country": "Italië",
+      "type": "Escort"
+    }
+  },
+  {
+    "id": "Char28",
+    "alias": "Symmetra",
+    "bio": "Satya Vaswani buigt de realiteit met hard-light constructies. Als architect voor de Vishkar Corporation wil ze een perfecte, geordende samenleving creëren.",
+    "base_hp": 225,
+    "is_original_hero": true,
+    "release_date": "2016-05-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Symmetra.png",
+    "role": "Damage",
+    "abilities": ["Photon Projector", "Sentry Turret", "Teleporter", "Photon Barrier"],
+    "home_region": {
+      "id": "Reg121",
+      "name": "Utopaea",
+      "country": "India",
+      "type": "Unknown"
+    }
+  },
+  {
+    "id": "Char29",
+    "alias": "Baptiste",
+    "bio": "Jean-Baptiste Augustin is een elite gevechtsmedic die Talon verliet om zijn vaardigheden te gebruiken voor het helpen van mensen die slachtoffer zijn geworden van oorlog.",
+    "base_hp": 200,
+    "is_original_hero": false,
+    "release_date": "2019-03-19",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Baptiste.png",
+    "role": "Support",
+    "abilities": ["Biotic Launcher", "Regenerative Burst", "Immortality Field", "Amplification Matrix"],
+    "home_region": {
+      "id": "Reg122",
+      "name": "Port-de-Paix",
+      "country": "Haïti",
+      "type": "Unknown"
+    }
+  },
+  {
+    "id": "Char30",
+    "alias": "Junker Queen",
+    "bio": "De meedogenloze leider van Junkertown. Ze won haar titel in het 'Reckoning' toernooi en regeert nu over de woestenij met haar bijl en magnetische handschoen.",
+    "base_hp": 450,
+    "is_original_hero": false,
+    "release_date": "2022-06-28",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Junker_Queen.png",
+    "role": "Tank",
+    "abilities": ["Scattergun", "Jagged Blade", "Commanding Shout", "Carnage", "Rampage"],
+    "home_region": {
+      "id": "Reg104",
+      "name": "Junkertown",
+      "country": "Australië",
+      "type": "Escort"
+    }
+  },
+  {
+    "id": "Char31",
+    "alias": "Orisa",
+    "bio": "Orisa is gebouwd uit de wrakstukken van de verdedigingsrobots van Numbani door het wonderkind Efi Oladele. Ze is de beschermer van de stad en leert nog elke dag wat het betekent om een held te zijn.",
+    "base_hp": 450,
+    "is_original_hero": false,
+    "release_date": "2017-03-21",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Orisa.png",
+    "role": "Tank",
+    "abilities": ["Augmented Fusion Driver", "Energy Javelin", "Javelin Spin", "Fortify", "Terra Surge"],
+    "home_region": {
+      "id": "Reg117",
+      "name": "Numbani",
+      "country": "Nigeria",
+      "type": "Hybrid"
+    }
+  },
+  {
+    "id": "Char32",
+    "alias": "Wrecking Ball",
+    "bio": "Hammond, ook bekend als Wrecking Ball, was net als Winston een proefdier op de Horizon Lunar Colony. Hij is een vindingrijke hamster en monteur die een gigantische mech bestuurt.",
+    "base_hp": 700,
+    "is_original_hero": false,
+    "release_date": "2018-07-24",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Wrecking_Ball.png",
+    "role": "Tank",
+    "abilities": ["Quad Cannons", "Grappling Claw", "Roll", "Piledriver", "Adaptive Shield", "Minefield"],
+    "home_region": {
+      "id": "Reg110",
+      "name": "Horizon Lunar Colony",
+      "country": "De Maan",
+      "type": "Assault"
+    }
+  },
+  {
+    "id": "Char33",
+    "alias": "Echo",
+    "bio": "Echo is een evolutionaire robot, geprogrammeerd met een snel aanpassende kunstmatige intelligentie. Ze werd gecreëerd door Dr. Mina Liao om de erfenis van Overwatch voort te zetten.",
+    "base_hp": 200,
+    "is_original_hero": false,
+    "release_date": "2020-04-14",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Echo.png",
+    "role": "Damage",
+    "abilities": ["Tri-Shot", "Sticky Bombs", "Flight", "Focusing Beam", "Duplicate"],
+    "home_region": {
+      "id": "Reg123",
+      "name": "Singapore Base",
+      "country": "Singapore",
+      "type": "Unknown"
+    }
+  },
+  {
+    "id": "Char34",
+    "alias": "Sojourn",
+    "bio": "Vivian 'Sojourn' Chase is een tactisch meesterbrein en voormalig kapitein van Overwatch. Met haar cybernetische verbeteringen leidt ze de strijd tegen Null Sector.",
+    "base_hp": 200,
+    "is_original_hero": false,
+    "release_date": "2022-10-04",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Sojourn.png",
+    "role": "Damage",
+    "abilities": ["Railgun", "Power Slide", "Disruptor Shot", "Overclock"],
+    "home_region": {
+      "id": "Reg124",
+      "name": "New Queen Street, Toronto",
+      "country": "Canada",
+      "type": "Push"
+    }
+  },
+  {
+    "id": "Char35",
+    "alias": "Ramattra",
+    "bio": "Ramattra was ooit een oorlogsmachine die vrede zocht als Shambali-monnik. Nu leidt hij Null Sector en vecht hij voor een betere toekomst voor alle Omnics, koste wat het kost.",
+    "base_hp": 450,
+    "is_original_hero": false,
+    "release_date": "2022-12-06",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Ramattra.png",
+    "role": "Tank",
+    "abilities": ["Void Accelerator", "Void Barrier", "Nemesis Form", "Pummel", "Ravenous Vortex", "Annihilation"],
+    "home_region": {
+      "id": "Reg116",
+      "name": "Nepal Sanctum",
+      "country": "Nepal",
+      "type": "Control"
+    }
+  },
+  {
+    "id": "Char36",
+    "alias": "Lifeweaver",
+    "bio": "Niran 'Lifeweaver' PruksaManee is een uitvinder uit Thailand die biolight-technologie gebruikt om de wereld te genezen. Hij is op de vlucht voor de Vishkar Corporation.",
+    "base_hp": 225,
+    "is_original_hero": false,
+    "release_date": "2023-04-11",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Lifeweaver.png",
+    "role": "Support",
+    "abilities": ["Healing Blossom", "Thorn Volley", "Petal Platform", "Rejuvenating Dash", "Life Grip", "Tree of Life"],
+    "home_region": {
+      "id": "Reg125",
+      "name": "Ayutthaya",
+      "country": "Thailand",
+      "type": "Capture the Flag"
+    }
+  },
+  {
+    "id": "Char37",
+    "alias": "Illari",
+    "bio": "Illari is de laatste van de Inti Warriors, een groep beschermers aangedreven door zonne-energie. Ze draagt de last van de vernietiging van haar volk en gebruikt haar krachten nu alleen.",
+    "base_hp": 200,
+    "is_original_hero": false,
+    "release_date": "2023-08-10",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Illari.png",
+    "role": "Support",
+    "abilities": ["Solar Rifle", "Outburst", "Healing Pylon", "Captive Sun"],
+    "home_region": {
+      "id": "Reg126",
+      "name": "Runasapi",
+      "country": "Peru",
+      "type": "Push"
+    }
+  },
+  {
+    "id": "Char38",
+    "alias": "Mauga",
+    "bio": "Mauga is een charismatische, maar sluwe Talon-agent uit Samoa. Met zijn dubbele chainguns en enorme kracht schept hij plezier in de chaos van het gevecht.",
+    "base_hp": 650,
+    "is_original_hero": false,
+    "release_date": "2023-12-05",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Mauga.png",
+    "role": "Tank",
+    "abilities": ["Incendiary Chaingun", "Volatile Chaingun", "Overrun", "Cardiac Overdrive", "Cage Fight"],
+    "home_region": {
+      "id": "Reg127",
+      "name": "Apia",
+      "country": "Samoa",
+      "type": "Control"
+    }
+  },
+  {
+    "id": "Char39",
+    "alias": "Venture",
+    "bio": "Sloan 'Venture' Cameron is een energieke archeoloog die nergens voor terugdeinst. Met hun enorme graafmachine ontdekken ze oude geheimen en verplaatsen ze zich ondergronds.",
+    "base_hp": 250,
+    "is_original_hero": false,
+    "release_date": "2024-04-16",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Venture.png",
+    "role": "Damage",
+    "abilities": ["Smart Excavator", "Burrow", "Drill Dash", "Tectonic Shock"],
+    "home_region": {
+      "id": "Reg128",
+      "name": "Petra",
+      "country": "Jordanië",
+      "type": "Deathmatch"
+    }
+  },
+  {
+    "id": "Char40",
+    "alias": "Juno",
+    "bio": "Juno is een ruimtevaarder afkomstig van Mars. Ze is naar de aarde gekomen met geavanceerde technologie om de planeet te redden en haar familie op de Rode Planeet hoop te geven.",
+    "base_hp": 200,
+    "is_original_hero": false,
+    "release_date": "2024-08-20",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Juno.png",
+    "role": "Support",
+    "abilities": ["Mediblaster", "Pulsar Torpedoes", "Glide Boost", "Hyper Ring", "Orbital Ray"],
+    "home_region": {
+      "id": "Reg129",
+      "name": "Red Promise Base",
+      "country": "Mars",
+      "type": "Unknown"
+    }
+  },
+  {
+    "id": "Char41",
+    "alias": "Hazard",
+    "bio": "Hazard is lid van de Phreaks, een punkbende uit Junkertown. Na een mislukt experiment heeft hij bizarre kristallen uit zijn lichaam groeien die hij als wapen en pantser gebruikt.",
+    "base_hp": 600,
+    "is_original_hero": false,
+    "release_date": "2024-12-10",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Hazard.png",
+    "role": "Tank",
+    "abilities": ["Injected Cannon", "Jagged Quill", "Violent Lunge", "Adaptive Circuit", "Downpour"],
+    "home_region": {
+      "id": "Reg104",
+      "name": "Junkertown",
+      "country": "Australië",
+      "type": "Escort"
+    }
+  },
+  {
+    "id": "Char42",
+    "alias": "D.Mon",
+    "bio": "Yuna Lee, callsign D.Mon, is een elite piloot van het MEKA-squadron en de voormalige teamgenoot van D.Va in de e-sports wereld. Ze bestuurt een zware mech genaamd 'Beast' en staat bekend om haar agressieve verdedigingstactieken.",
+    "base_hp": 600,
+    "is_original_hero": false,
+    "release_date": "2025-04-20",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/D.Mon.png",
+    "role": "Tank",
+    "abilities": ["Beast Cannon", "Deflector Shield", "Rocket Boost", "Lockdown Mode"],
+    "home_region": {
+      "id": "Reg105",
+      "name": "MEKA Base, Busan",
+      "country": "Zuid-Korea",
+      "type": "Control"
+    }
+  },
+  {
+    "id": "Char43",
+    "alias": "Emre",
+    "bio": "Emre Sarioglu is een veteraan van Overwatch en een van de helden die samen met Ana, Soldier: 76 en Torbjörn vocht tijdens Operation White Dome. Na jaren onder de radar te zijn gebleven, is hij teruggekeerd met geavanceerde wapens.",
+    "base_hp": 225,
+    "is_original_hero": false,
+    "release_date": "2025-12-10",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Emre.webp",
+    "role": "Damage",
+    "abilities": ["Burst Rifle", "Shock Grenade", "Active Camouflage", "Drone Strike"],
+    "home_region": {
+      "id": "Reg130",
+      "name": "Istanbul",
+      "country": "Turkije",
+      "type": "Push"
+    }
+  },
+  {
+    "id": "Char44",
+    "alias": "Maximilien",
+    "bio": "Maximilien is een rijke Omnic en een hooggeplaatst lid van de Inner Council van Talon. Hij vecht niet met spierkracht, maar met inlichtingen, geld en dodelijke precisie-drones. Hij beheert de financiën van de criminele onderwereld.",
+    "base_hp": 175,
+    "is_original_hero": false,
+    "release_date": "2026-02-04",
+    "portrait_url": "https://raw.githubusercontent.com/giovanniverresen-ctrl/Dataset-Project-WebOntwikkeling/refs/heads/main/Dateset-Project/images/characters/Maximilien.jpeg",
+    "role": "Support",
+    "abilities": ["Calculated Shot", "Debt Collector", "Investment Shield", "Market Crash"],
+    "home_region": {
+      "id": "Reg131",
+      "name": "Casino de Monte Carlo",
+      "country": "Monaco",
+      "type": "Escort"
+    }
+  }
+]
